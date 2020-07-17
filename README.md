@@ -1,5 +1,7 @@
 ### Markus 
-Hello I'm Markus
-I'm a young Developer, who just writes a bit Java  
-with a few Frameworks.
+I'm a young Developer, who just have fun while writing code,
+I also like hardware too, but never seen hardware in github.  
+  
+My main language is Java, i use it with different frameworks  
+like JavaFX or Apache POI
 
