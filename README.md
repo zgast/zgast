@@ -16,3 +16,6 @@ I also like hardware too, but never seen hardware in github.
 
 My main language is Java, I use it with different frameworks  
 like JavaFX or Apache POI.
+
+## *Top Lanuages*
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zgast&theme=dracula)
