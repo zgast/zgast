@@ -1,5 +1,5 @@
 ```Java
-package at.markus;
+package at.zgast;
 
 class Markus extends Human{
     private String name             = "Markus";
@@ -10,7 +10,7 @@ class Markus extends Human{
     private String[] technologies   = {"Docker", "Linux", "MongoDB", "git" ,"nginx"};
 
     public Markus(Coffee firstCoffee){
-        Markus.drink(firstCoffee);
+        this.drink(firstCoffee);
     }
 }
 ```
