@@ -1,4 +1,4 @@
-```Java
+```Kotlin
 package at.markus;
 
 import java.util.Map;
